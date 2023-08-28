@@ -1,0 +1,1242 @@
+L001 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Hey
+L002 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 1
+L003 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the courses available?
+L004 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L005 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know more about the pries of the buissness courses?
+L006 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L007 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know the prizes of the IT courses?
+L008 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L009 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how many intakes are there?
+L010 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L011 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ when will be the next intake?
+L012 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 002
+L013 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I register Online?
+L014 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L015 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++  Is it possible to transfer fees Online?
+L016 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 004
+L017 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ what are the minimum qualifications required to register for a degree?
+L018 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L019 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Is it possible to do a without A/L three pass?
+L020 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L021 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how to do it?
+L022 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L023 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ How to do a degree by doing only O/L?
+L024 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L025 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the foundation programme?
+L026 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0004
+L027 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ How long does the foundation course have to do?
+L028 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0204
+L029 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ what is the foundation Course fee?
+L030 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0104
+L031 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Thanks
+L032 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 2
+L033 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Hi
+L034 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 1
+L035 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me the courses available?
+L036 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L037 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What about the duration?
+L038 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 008
+L039 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ all
+L040 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0005
+L041 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ How can i registered with a course? 
+L042 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L043 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ How can I do payments ? 
+L044 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 004
+L045 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ what about the minmum requirments for a course? 
+L046 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L047 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ So if I dont have 3s for A/Ls cant i do adegree? 
+L048 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L049 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Even pending? 
+L050 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 006
+L051 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ How much is the foundation course? 
+L052 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0104
+L053 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Thank you
+L054 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 2
+L055 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Hey
+L056 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 1
+L057 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ hey
+L058 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 1
+L059 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ hey
+L060 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 1
+L061 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ hey
+L062 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 1
+L063 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ hey
+L064 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 1
+L065 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ hey 
+L066 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 1
+L067 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ hey
+L068 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 1
+L069 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ hey
+L070 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 1
+L071 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Hi
+L072 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 1
+L073 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Hi
+L074 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 1
+L075 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Hi
+L076 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 1
+L077 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Hi
+L078 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 1
+L079 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Hi
+L080 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 1
+L081 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Hi
+L082 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 1
+L083 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Hi
+L084 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 1
+L085 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Hi
+L086 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 1
+L087 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the courses available?
+L088 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L089 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available courses?
+L090 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L091 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me the available courses?
+L092 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L093 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the available courses
+L094 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L095 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the courses?
+L096 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L097 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the available courses? 
+L098 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L099 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the available courses? 
+L100 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L101 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the courses? 
+L102 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L103 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the courses? 
+L104 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L105 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the courses available?
+L106 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L107 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the courses?
+L108 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L109 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available courses?
+L110 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L111 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the degrees available?
+L112 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L113 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available degrees?
+L114 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L115 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me the available degrees?
+L116 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L117 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the available degrees
+L118 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L119 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the degrees?
+L120 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L121 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the available degrees? 
+L122 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L123 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the available degress? 
+L124 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L125 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the degrees? 
+L126 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L127 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the degrees? 
+L128 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L129 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the degrees available?
+L130 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L131 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the degrees?
+L132 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L133 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available degrees?
+L134 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0001
+L135 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about business degrees available?
+L136 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L137 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available business degrees?
+L138 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L139 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me the available business degrees?
+L140 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L141 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the available business degrees
+L142 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L143 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the business degrees?
+L144 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L145 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the available business degrees? 
+L146 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L147 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the available business degress? 
+L148 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L149 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the business degrees? 
+L150 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L151 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the business degrees? 
+L152 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L153 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the degrees business available?
+L154 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L155 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the business degrees?
+L156 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L157 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available business degrees?
+L158 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L159 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about business courses available?
+L160 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L161 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available business courses?
+L162 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L163 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me the available business courses?
+L164 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L165 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the available business courses
+L166 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L167 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the business courses?
+L168 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L169 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the available business courses? 
+L170 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L171 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the available business courses? 
+L172 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L173 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the business courses? 
+L174 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L175 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the business courses? 
+L176 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L177 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the courses business available?
+L178 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L179 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the business courses?
+L180 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L181 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available business courses?
+L182 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L183 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about degrees available in business faculty?
+L184 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L185 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available degrees in business facult?
+L186 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L187 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me the available business degrees?
+L188 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L189 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the available degrees in business faculty
+L190 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L191 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the degrees in business faculty?
+L192 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L193 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the available business degrees? 
+L194 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L195 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the available business degress? 
+L196 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L197 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the business degrees? 
+L198 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L199 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the business degrees? 
+L200 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L201 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the degrees business available?
+L202 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L203 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the business degrees?
+L204 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L205 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available business degrees?
+L206 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L207 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about courses available in business faculty?
+L208 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L209 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available courses in business faculty?
+L210 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L211 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me the available courses in business faculty?
+L212 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L213 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the available courses in business faculty
+L214 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L215 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the courses in business faculty?
+L216 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L217 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the courses available in business faculty? 
+L218 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L219 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the degrees in business faculty? 
+L220 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L221 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me degrees available in business faculty? 
+L222 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L223 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the degrees available in business faculty? 
+L224 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L225 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the courses in business faculty available?
+L226 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L227 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the business courses available in business faculty?
+L228 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L229 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available business courses?
+L230 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L231 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the degrees in business faculty available?
+L232 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L233 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the degrees courses available in business faculty?
+L234 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L235 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available degrees in business faculty?
+L236 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0002
+L237 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about IT courses available?
+L238 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L239 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available IT courses?
+L240 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L241 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me the available IT courses?
+L242 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L243 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the available IT courses
+L244 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L245 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the IT courses?
+L246 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L247 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the available IT courses? 
+L248 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L249 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the available IT courses? 
+L250 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L251 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the IT courses? 
+L252 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L253 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the IT courses? 
+L254 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L255 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the courses IT available?
+L256 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L257 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the IT courses?
+L258 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L259 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available IT courses?
+L260 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L261 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about IT degrees available?
+L262 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L263 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available IT degrees?
+L264 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L265 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me the available IT degrees?
+L266 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L267 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the available IT degrees
+L268 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L269 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the IT degrees?
+L270 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L271 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the available IT degrees? 
+L272 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L273 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the available IT degrees? 
+L274 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L275 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the IT degrees? 
+L276 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L277 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the IT degrees? 
+L278 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L279 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the degrees IT available?
+L280 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L281 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the IT degrees?
+L282 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L283 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available IT degrees?
+L284 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L285 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about Computing degrees available?
+L286 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L287 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available Computing degrees?
+L288 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L289 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me the available Computing degrees?
+L290 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L291 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the available Computing degrees
+L292 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L293 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the Computing degrees?
+L294 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L295 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the available Computing degrees? 
+L296 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L297 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the available Computing degrees? 
+L298 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L299 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the Computing degrees? 
+L300 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L301 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the Computing degrees? 
+L302 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L303 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the degrees Computing available?
+L304 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L305 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the Computing degrees?
+L304 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L305 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available Computing degrees?
+L306 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L307 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about Computing courses available?
+L308 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L309 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available Computing courses?
+L310 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L311 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me the available Computing courses?
+L312 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L313 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the available Computing courses
+L314 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L315 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the Computing courses?
+L316 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L317 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the available Computing courses? 
+L318 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L319 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the available Computing courses? 
+L320 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L321 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the Computing courses? 
+L322 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L323 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the Computing courses? 
+L324 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L325 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the courses Computing available?
+L326 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L327 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the Computing courses?
+L328 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L329 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available Computing courses?
+L330 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L331 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about degrees available in Computing faculty?
+L332 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L333 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available degrees in Computing  facult?
+L334 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L335 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me the available degrees in Computing faculty?
+L336 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L337 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the available degrees in Computing faculty
+L338 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L339 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the degrees in Computing faculty?
+L340 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L341 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the available degrees in Computing faculty? 
+L342 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L343 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the available Computing  degress? 
+L344 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L345 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the degrees available in Computing faculty? 
+L346 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L345 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell the degrees available in Computing faculty? 
+L346 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L345 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the degrees in Computing faculty? 
+L346 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L347 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the degrees in Computing faculty available?
+L348 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L349 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the degrees in Computing faculty?
+L350 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L351 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available degrees in Computing faculty?
+L352 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L353 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about courses available in Computing faculty?
+L354 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L355 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available courses in Computing  facult?
+L356 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L357 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me the available courses in Computing faculty?
+L358 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L359 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the available courses in Computing faculty
+L360 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L361 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the courses in Computing faculty?
+L362 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L363 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the available courses in Computing faculty? 
+L364 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L365 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the available Computing  courses? 
+L366 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L367 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the degrees available in Computing faculty? 
+L368 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L369 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell the courses available in Computing faculty? 
+L370 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L371 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell about the courses in Computing faculty? 
+L372 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L373 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the courses in Computing faculty available?
+L374 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L375 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the courses in Computing faculty?
+L376 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L377 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the available courses in Computing faculty?
+L378 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L379 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the bsc.management degree?
+L380 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L381 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the bsc.management degree?
+L382 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L383 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me more information about bsc.management degree?
+L384 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L385 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the bsc.management degree
+L386 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L387 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me bsc.management degree?
+L388 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L389 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about bsc.management degree? 
+L390 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L391 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell more information about the bsc.management degree? 
+L392 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L393 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the bsc.management degree? 
+L394 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L395 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ bsc.management degree more information? 
+L396 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L397 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ bsc.management degree? 
+L398 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L399 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ tell me about bsc.management degree?
+L400 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L401 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ show me the bsc.management degree?
+L402 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L403 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the bsc.management course?
+L404 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L405 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the bsc.management course?
+L406 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L407 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me more information about bsc.management dcourse?
+L408 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L409 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the bsc.management course
+L410 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L411 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me bsc.management course?
+L412 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L413 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about bsc.management course? 
+L414 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L415 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell more information about the bsc.management course? 
+L416 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L417 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the bsc.management course? 
+L418 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0003
+L419 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ bsc.management course more information? 
+L420 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L421 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ bsc.management course? 
+L422 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L423 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ tell me about bsc.management course?
+L424 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L425 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ show me the bsc.management course?
+L426 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L427 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the management degree?
+L428 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L429 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the management degree?
+L430 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L431 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me more information about management degree?
+L432 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L433 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the management degree
+L434 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L435 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me management degree?
+L436 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L437 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about management degree? 
+L438 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L439 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell more information about the management degree? 
+L440 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L441 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the management degree? 
+L442 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L443 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ management degree more information? 
+L444 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L445 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ management degree? 
+L446 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L447 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ tell me about management degree?
+L448 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L449 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ show me the management degree?
+L450 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L451 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the bsc.computer science course
+L452 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L453 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me bsc.computer science course?
+L454 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L455 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about bsc.computer science course? 
+L456 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L457 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell more information about the bsc.computer science course? 
+L458 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L459 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the bsc.computer science course? 
+L460 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L461 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ bsc.computer science course more information? 
+L462 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L463 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ bsc.computer science course? 
+L464 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L465 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ tell me about bsc.computer science course?
+L466 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L467 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ show me the bsc.computer science course?
+L468 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L469 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the computer science degree?
+L470 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L471 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the computer science degree?
+L472 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L473 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me more information about computer science degree?
+L474 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L475 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the computer science degree
+L476 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L477 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me computer science degree?
+L478 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L479 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about computer science degree? 
+L480 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L481 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell more information about the computer science degree? 
+L482 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L483 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the computer science degree? 
+L484 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L485 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ computer science degree more information? 
+L486 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L487 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ computer science degree? 
+L488 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L489 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ tell me about computer science degree?
+L490 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L491 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ show me the computer science degree?
+L492 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L493 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the computer science course?
+L494 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L495 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the computer science course?
+L496 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L497 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me more information about computer science course?
+L498 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L499 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the computer science course
+L500 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L501 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the management course?
+L502 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L503 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the management course?
+L504 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L505 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me more information about management course?
+L506 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L507 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the management course
+L508 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L509 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me management course?
+L510 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L511 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about management course? 
+L512 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L513 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell more information about the management course? 
+L514 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L515 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the management course? 
+L516 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L517 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ management course more information? 
+L518 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L519 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ management course? 
+L520 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L521 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ tell me about management course?
+L522 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L523 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ show me the management course?
+L524 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0022
+L525 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the bsc.marketing degree?
+L526 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L527 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the bsc.marketing degree?
+L528 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L529 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me more information about bsc.marketing degree?
+L530 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L531 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the bsc.marketing degree
+L532 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L533 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me bsc.marketing degree?
+L534 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L535 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about bsc.marketing degree? 
+L536 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L537 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell more information about the bsc.marketing degree? 
+L538 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L539 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the bsc.marketing degree? 
+L540 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L541 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ bsc.marketing degree more information? 
+L542 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L543 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ bsc.marketing degree? 
+L544 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L545 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ tell me about bsc.marketing degree?
+L546 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L547 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ show me the bsc.marketing degree?
+L548 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L549 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the bsc.marketing course?
+L550 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L551 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the bsc.marketing course?
+L552 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L553 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me more information about bsc.marketing course?
+L554 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L555 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the bsc.marketing course
+L556 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L557 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me bsc.marketing course?
+L558 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L559 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about bsc.marketing course? 
+L560 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L561 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell more information about the bsc.marketing course? 
+L562 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L563 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the bsc.marketing course? 
+L564 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L565 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ bsc.marketing course more information? 
+L566 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L567 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ bsc.marketing course? 
+L568 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L569 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ tell me about bsc.marketing course?
+L570 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L571 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ show me the bsc.marketing course?
+L572 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L573 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the marketing degree?
+L574 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L575 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the marketing degree?
+L576 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L577 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me more information about marketing degree?
+L578 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L579 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the marketing degree
+L580 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L581 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me marketing degree?
+L582 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L583 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about marketing degree? 
+L584 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L585 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell more information about the marketing degree? 
+L586 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L587 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the marketing degree? 
+L588 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L589 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ marketing degree more information? 
+L590 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L591 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ marketing degree? 
+L592 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L593 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ tell me about marketing degree?
+L594 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L595 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ show me the marketing degree?
+L596 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L597 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the marketing course?
+L598 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L599 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the marketing course?
+L600 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L601 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me more information about marketing course?
+L602 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L603 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the marketing course
+L604 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L605 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me marketing course?
+L606 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L607 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about marketing course? 
+L608 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L609 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell more information about the marketing course? 
+L610 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L611 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the marketing course? 
+L612 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L613 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ marketing course more information? 
+L614 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L615 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ marketing course? 
+L616 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L617 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ tell me about marketing course?
+L618 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L619 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ show me the marketing course?
+L620 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0012
+L621 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the bsc.computer science degree?
+L622 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L623 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the bsc.computer science  degree?
+L624 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L625 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me more information about bsc.computer science  degree?
+L626 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L627 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the bsc.computer science degree
+L628 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L629 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me bsc.computer science degree?
+L630 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L631 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about bsc.computer science degree? 
+L632 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L633 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell more information about the bsc.computer science degree? 
+L634 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L635 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the bsc.computer science degree? 
+L636 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L637 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ bsc.computer science degree more information? 
+L638 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L639 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ bsc.computer science degree? 
+L640 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L641 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ tell me about bsc.computer science degree?
+L642 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L643 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ show me the bsc.computer science degree?
+L644 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L645 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the bsc.computer science course?
+L646 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L647 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the bsc.computer science course?
+L648 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L649 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me more information about bsc.computer science course?
+L650 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L651 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the bsc.computer science course
+L652 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L653 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me bsc.computer science course?
+L654 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L655 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about bsc.computer science course? 
+L656 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L657 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell more information about the bsc.computer science course? 
+L658 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L659 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the bsc.computer science course? 
+L660 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L661 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ bsc.computer science course more information? 
+L662 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L663 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ bsc.computer science course? 
+L664 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L665 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ tell me about bsc.computer science course?
+L666 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L667 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ show me the bsc.computer science course?
+L668 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L669 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the computer science degree?
+L670 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L671 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the computer science degree?
+L672 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L673 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me more information about computer science degree?
+L674 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L675 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the computer science degree
+L676 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L677 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me computer science degree?
+L678 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L679 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about computer science degree? 
+L680 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L681 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell more information about the computer science degree? 
+L682 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L683 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the computer science degree? 
+L684 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L685 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ computer science degree more information? 
+L686 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L687 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ computer science degree? 
+L688 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L689 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ tell me about computer science degree?
+L690 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L691 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ show me the computer science degree?
+L692 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L693 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the computer science course?
+L694 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L695 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the computer science course?
+L696 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L697 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me more information about computer science course?
+L698 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L699 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the computer science course
+L700 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L701 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me computer science course?
+L702 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L703 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about computer science course? 
+L704 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L705 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell more information about the computer science course? 
+L706 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L707 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the computer science course? 
+L708 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L709 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ computer science course more information? 
+L710 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L711 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ computer science course? 
+L712 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L713 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ tell me about computer science course?
+L714 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L715 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ show me the computer science course?
+L716 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0013
+L717 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the bsc.software engineer degree?
+L718 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L719 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the bsc.software engineer  degree?
+L720 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L721 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me more information about bsc.software engineer  degree?
+L722 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L723 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the bsc.software engineer degree
+L724 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L725 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me bsc.software engineer degree?
+L726 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L727 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about bsc.software engineer degree? 
+L728 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L729 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell more information about the bsc.software engineer degree? 
+L730 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L731 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the bsc.software engineer degree? 
+L732 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L733 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ bsc.software engineer degree more information? 
+L734 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L735 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ bsc.software engineer degree? 
+L736 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L737 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ tell me about bsc.software engineer degree?
+L738 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L739 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ show me the bsc.software engineer degree?
+L740 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L741 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the bsc.software engineer course?
+L742 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L743 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the bsc.software engineer course?
+L744 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L745 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me more information about bsc.software engineer course?
+L746 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L747 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the bsc.software engineer course
+L748 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L749 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me bsc.software engineer course?
+L750 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L751 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about bsc.software engineer course? 
+L752 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L753 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell more information about the bsc.software engineer course? 
+L754 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L755 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the bsc.software engineer course? 
+L756 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L757 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ bsc.software engineer course more information? 
+L758 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L759 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ bsc.software engineer course? 
+L760 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L761 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ tell me about bsc.software engineer course?
+L762 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L763 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ show me the bsc.software engineer course?
+L764 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L765 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the software engineer degree?
+L766 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L767 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the software engineer degree?
+L768 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L769 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me more information about software engineer degree?
+L770 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L771 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the software engineer degree
+L772 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L773 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me software engineer degree?
+L774 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L775 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about software engineer degree? 
+L776 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L777 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell more information about the software engineer degree? 
+L778 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L779 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the software engineer degree? 
+L780 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L781 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ software engineer degree more information? 
+L782 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L783 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ software engineer degree? 
+L784 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L785 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ tell me about software engineer degree?
+L786 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L787 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ show me the software engineer degree?
+L788 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L789 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the software engineer course?
+L790 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L791 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the software engineer course?
+L792 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L793 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me more information about software engineer course?
+L794 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L795 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the software engineer course
+L796 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L797 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me software engineer course?
+L798 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L799 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about software engineer course? 
+L800 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L801 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell more information about the software engineer course? 
+L802 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L803 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the software engineer course? 
+L804 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L805 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ software engineercourse more information? 
+L806 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L807 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ software engineer course? 
+L808 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L809 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ tell me about software engineer course?
+L810 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L811 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ show me the software engineer course?
+L812 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L813 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the foundation course?
+L814 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L815 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the foundation course?
+L816 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L817 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me more information about foundation course?
+L818 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L819 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the foundation course
+L820 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L821 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me foundation course?
+L822 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L823 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about foundation course? 
+L824 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L825 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell more information about the foundation course? 
+L826 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L827 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the foundation course? 
+L828 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L829 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ foundation course more information? 
+L830 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L831 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ foundation course? 
+L832 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L833 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ tell me about foundation course?
+L834 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L835 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ show me the foundation course?
+L836 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L837 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I want to know about the foundation ?
+L838 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L839 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can I know about the foundation ?
+L840 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L841 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you show me more information about foundation ?
+L842 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L843 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me the foundation 
+L844 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L845 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Show me foundation ?
+L846 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L847 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about foundation? 
+L848 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L849 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell more information about the foundation? 
+L850 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L851 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Can you tell me about the foundation? 
+L852 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L853 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ foundation more information? 
+L854 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L855 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ foundation? 
+L856 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L857 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ tell me about foundation?
+L858 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L859 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ show me the foundation?
+L860 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 0023
+L861 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the the Intakes?
+L862 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L863 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ When will be the Intakes?
+L864 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L865 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ which months will be the Intakes?
+L866 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L867 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ When will take new people?
+L868 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L869 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Intakes?
+L870 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L871 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ when will be the Intakes in this year? 
+L872 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L873 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Intakes in this year? 
+L874 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L875 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Intakes on this year? 
+L876 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L877 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ when will you take new recruits?
+L878 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L879 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ which month you will take new recruits?
+L880 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L881 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ when will be the new requitments?
+L882 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L883 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ recruits?
+L884 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L885 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the the Intakes?
+L886 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L887 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ When will be the Intakes?
+L888 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L889 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ which months will be the Intakes?
+L890 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L891 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ When will take new people?
+L892 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L893 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Intakes?
+L894 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L895 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ when will be the Intakes in this year? 
+L896 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L897 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Intakes in this year? 
+L898 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L899 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Intakes on this year? 
+L890 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L891 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ when will you take new recruits?
+L892 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L893 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ which month you will take new recruits?
+L894 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L895 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ when will be the new requitments?
+L896 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L897 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ recruits?
+L898 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L899 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ recruits?
+L900 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L901 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ recruits?
+L902 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L903 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ recruits?
+L904 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L905 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ recruits?
+L906 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L907 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ when will be the new requitments?
+L908 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L909 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ when will be the new requitments?
+L910 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L911 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ when will be the new requitments?
+L912 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L913 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ when will be the new requitments?
+L914 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L915 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ when will be the new requitments?
+L916 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L917 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ when will be the new requitments?
+L918 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L919 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ when will be the new requitments?
+L920 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 001
+L921 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ When will be the next intake?
+L922 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 002
+L923 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ When wil be the next intake?
+L924 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 002
+L925 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ in which month will be the next intake?
+L926 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 002
+L927 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ in which month will be the next intake?
+L928 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 002
+L929 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ next Intakes?
+L930 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 002
+L931 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ when will be the Intakes in this year? 
+L932 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 002
+L933 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ next intakes in this year? 
+L934 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 002
+L935 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ next Intakes on this year? 
+L936 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 002
+L937 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ When will be the next intake?
+L938 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 002
+L939 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ When wil be the next intake?
+L940 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 002
+L941 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ in which month will be the next intake?
+L942 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 002
+L943 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ in which month will be the next intake?
+L944 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 002
+L945 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ next Intakes?
+L946 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 002
+L947 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ when will be the Intakes in this year? 
+L948 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 002
+L949 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ next intakes in this year? 
+L950 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 002
+L951 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ next Intakes on this year? 
+L952 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 002
+L953 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ How can i register?
+L954 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L955 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ do i need to come to universty to register?
+L956 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L957 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ do i have to come to university to register?
+L958 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L959 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how to register?
+L960 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L961 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ How can i register in to a degree?
+L962 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L963 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ How can i register in to a course? 
+L964 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L965 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ How to register to a degree? 
+L966 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L967 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ How to register to a course? 
+L968 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L969 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ register?
+L970 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L971 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i register in to a course?
+L972 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L973 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i register in to a degree?
+L974 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L975 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how i register in to a course?
+L976 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L977 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how i register in to a degree?
+L978 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L979 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ when can i register? 
+L980 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L981 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ How can i register?
+L982 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L983 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ do i need to come to universty to register?
+L984 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L985 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ do i have to come to university to register?
+L986 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L987 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how to register?
+L988 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L989 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ How can i register in to a degree?
+L990 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L991 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ How can i register in to a course? 
+L992 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L993 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ How to register to a degree? 
+L994 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L995 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ How to register to a course? 
+L996 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L997 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ register?
+L998 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L999 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i register in to a course?
+L1000 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L1001 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i register in to a degree?
+L1002 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L1003 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how i register in to a course?
+L1004 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L1005 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how i register in to a degree?
+L1006 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L1007 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ when can i register? 
+L1008 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 003
+L1009 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ What are the requirements?
+L1010 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1011 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ what are the minimum requirements?
+L1012 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1013 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ what are the minimum requirements enroll?
+L1014 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1015 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ what are the minimum requirements enroll in to a course?
+L1016 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1017 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Im fail my AL can i enroll?
+L1018 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1019 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know about the minimum requirements enroll?
+L1020 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1021 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know about requirements enroll?
+L1022 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1023 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know the requirements for enroll?
+L1024 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1025 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know about the minimum requirements for enroll?
+L1026 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1027 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know about the minimum requirements to do a degree?
+L1028 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1029 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know about the minimum requirements to do a course?
+L1030 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1031 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know about the minimum requirements enrollment?
+L1032 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1033 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know about requirements enrollment?
+L1034 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1035 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know the requirements for enrollment?
+L1036 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1037 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know about the minimum requirements for a degree?
+L1038 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1039 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know about the minimum requirements for a degree?
+L1040 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1041 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know about requirements for a degree?
+L1042 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1043 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know the requirements for for a degree?
+L1044 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1045 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know about the minimum requirements forfor a degree?
+L1046 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1047 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know about the minimum requirements for a course?
+L1048 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1049 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know about the minimum requirements for a course?
+L1050 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1051 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know about requirements for a course?
+L1052 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1053 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know the requirements for for a course?
+L1054 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1055 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know about the minimum requirements forfor a course?
+L1056 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1057 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Im fail my AL can i enrolled?
+L1058 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1059 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i do a course without Al
+L1060 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1061 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I do not have AL can i do a degree?
+L1062 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1063 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how can I register without AL?
+L1064 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1065 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Im fail my AL can i enrolled?
+L1066 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1067 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i do a course without Al
+L1068 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1069 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I do not have AL can i do a degree?
+L1070 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1071 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how can I register without AL?
+L1072 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ 005 
+L1073 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Im fail my AL can i enrolled?
+L1074 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1075 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i do a course without Al
+L1076 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1077 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I do not have AL can i do a degree?
+L1078 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1079 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how can I register without AL?
+L1080 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1081 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Im fail my ALs can i enrolled?
+L1082 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1083 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i do a course without Als
+L1084 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1085 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I do not have ALs can i do a degree?
+L1086 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1087 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how can I register without ALs?
+L1088 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1089 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Im fail my AL can i enrolled?
+L1090 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1091 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i do a course without Als
+L1092 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1093 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I do not have ALs can i do a degree?
+L1094 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1095 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how can I register without ALs?
+L1096 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1097 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Im fail my ALs can i enrolled?
+L1098 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1099 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i do a course without Als
+L1100 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1101 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I do not have ALs can i do a degree?
+L1102 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1103 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how can I register without ALs?
+L1104 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1105 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Im fail my ALs can i enrolled?
+L1106 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1107 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i do a course without Als
+L1108 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1109 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I do not have ALs can i do a degree?
+L1110 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1111 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how can I register without ALs?
+L1112 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1113 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Im fail my AL can i enrolled?
+L1114 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1115 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i do a course without Als
+L1116 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1117 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I do not have ALs can i do a degree?
+L1118 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1119 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how can I register without ALs?
+L1120 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1121 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Im fail my ALs can i enrolled?
+L1122 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1123 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i do a course without Als
+L1124 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1125 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ I do not have ALs can i do a degree?
+L1126 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1127 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how can I register without ALs?
+L1128 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1129 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Im fail my ALs can i do pending?
+L1130 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 006
+L1131 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ is pending available?
+L1132 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 006
+L1133 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i do pending?
+L1134 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 006
+L1135 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ pending ?
+L1136 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 006
+L1137 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Im fail my ALs can i do pending?
+L1138 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 006
+L1139 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ is pending available?
+L1140 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 006
+L1141 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i do pending?
+L1142 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 006
+L1143 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ pending ?
+L1144 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 006
+L1145 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ Im fail my ALs can i do pending?
+L1146 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1147 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ is pending available?
+L1148 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1149 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i do pending?
+L1150 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1151 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ pending ?
+L1152 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 005
+L1153 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how can i do payments?
+L1154 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 004
+L1155 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how can i make payments
+L1156 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 004
+L1157 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ payments?
+L1158 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 004
+L1159 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how can i do payments for the course?
+L1160 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 004
+L1161 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how can i do payments for the degree?
+L1162 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 004
+L1163 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how can i do payments?
+L1164 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 004
+L1165 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how can i make payments
+L1166 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 004
+L1167 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ payments?
+L1168 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 004
+L1169 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how can i do payments for the course?
+L1170 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 004
+L1171 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how can i do payments for the degree?
+L1172 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 004
+L1173 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how can i do payments?
+L1174 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 004
+L1175 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how can i make payments
+L1176 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 004
+L1177 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ payments?
+L1178 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 004
+L1179 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ how can i do payments for the course?
+L1180 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 004
+L1181 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i do payments via online?
+L1182 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 004
+L1183 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i do payments via online?
+L1184 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 004
+L1185 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i do payments via online?
+L1186 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 004
+L1187 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i do payments online?
+L1188 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 004
+L1189 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i do payments online?
+L1190 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 004
+L1191 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know the prize?
+L1192 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 008 
+L1193 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ prize?
+L1194 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 008 
+L1195 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ prize?
+L1196 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 008 
+L1197 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know the prize of the degree?
+L1198 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 008 
+L1199 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ prize of the degree?
+L1200 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 008 
+L1201 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ what about the prize of the degree?
+L1202 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 008 
+L1203 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know the prize of the course?
+L1204 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 008 
+L1205 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ prize of the course?
+L1206 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 008 
+L1207 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ what about the prize of the course?
+L1208 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 008 
+L1209 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know the prize?
+L1210 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 008 
+L1211 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ prize?
+L1212 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 008 
+L1213 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ prize?
+L1214 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 008 
+L1215 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know the prize of the degree?
+L1216 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 008 
+L1217 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ prize of the degree?
+L1218 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 008 
+L1219 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ what about the prize of the degree?
+L1220 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 008 
+L1221 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ can i know the prize of the course?
+L1222 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 008 
+L1223 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ prize of the course?
+L1224 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 008 
+L1225 +++$+++ u0 +++$+++ c0 +++$+++ candidate +++$+++ what about the prize of the course?
+L1226 +++$+++ u2 +++$+++ c0 +++$+++ chatbot +++$+++ 008 

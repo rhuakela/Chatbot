@@ -1,0 +1,55 @@
+greeting
+---------
+1-how can i help you
+2-wellcome
+
+courses
+-------
+0001- common
+0005-common with prizes and duration
+0002- common bs
+0003- common IT
+
+0004-Foundation
+0104-Foundation_marcketing_prize
+0204-Foundation_marcketing_duratio
+
+0012- buisess_marcketing
+0112-buisess_marcketing_prize
+0212-buisess_marcketing_duration
+
+0022- buisess_managment
+0122-buisess_managment_prize
+0222-buisess_managment_duration
+
+0013- IT_cs
+0113-IT_cs_prize
+0213-IT_cs_duration
+
+0023-IT_se
+0123-IT_se_prize
+0223-IT_se_duration
+
+Intakes
+-------
+001-all intakes
+002-next intake
+
+reg
+---
+003-come to uni cant online
+
+payment
+-------
+004- via deposite or visit uni
+
+requment
+--------
+005- 3s or else foundation
+006- no pending
+
+more info
+--------
+007-more
+
+008 -which course
